@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+G:\VIT\BE\Sem8\ES\product\Abhiman\ased.uv2
+Project File Date:  05/02/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling final.c...
+linking...
+Program Size: data=1172 const=55 code=1812
+creating hex file from "ased"...
+"ased" - 0 Error(s), 0 Warning(s).
